@@ -1,0 +1,82 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="olivoil.eu" resolutions="1x" timestamp="1524544948449">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4171141130" ref="index"/>
+    <file name="nomq_index.css" crc="409002852" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u556.php" crc="161810953" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="artboard_3.png" crc="4088478212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1191-4-a.png" crc="3901801258" ref="index"/>
+    <file name="u1128.png" crc="182887619" ref="index"/>
+    <file name="u1128-r.png" crc="3987191379" ref="index"/>
+    <file name="u1149.png" crc="4007210662" ref="index"/>
+    <file name="u1149-r.png" crc="3884241226" ref="index"/>
+    <file name="u1170.png" crc="4166010299" ref="index"/>
+    <file name="u1170-r.png" crc="3896145555" ref="index"/>
+    <file name="artboard_1.png" crc="4217094552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1647-4.png" crc="51264258" ref="index"/>
+    <file name="u1191-4-a2.png" crc="3901801258" ref="index"/>
+    <file name="u11282.png" crc="182887619" ref="index"/>
+    <file name="u1128-r2.png" crc="3987191379" ref="index"/>
+    <file name="u11492.png" crc="4007210662" ref="index"/>
+    <file name="u1149-r2.png" crc="3884241226" ref="index"/>
+    <file name="u11702.png" crc="4166010299" ref="index"/>
+    <file name="u1170-r2.png" crc="3896145555" ref="index"/>
+    <file name="u1647-42.png" crc="51264258" ref="index"/>
+    <file name="u1647-43.png" crc="51264258" ref="index"/>
+    <file name="u1191-4-a3.png" crc="3901801258" ref="index"/>
+    <file name="u11283.png" crc="182887619" ref="index"/>
+    <file name="u1128-r3.png" crc="3987191379" ref="index"/>
+    <file name="u11493.png" crc="4007210662" ref="index"/>
+    <file name="u1149-r3.png" crc="3884241226" ref="index"/>
+    <file name="u11703.png" crc="4166010299" ref="index"/>
+    <file name="u1170-r3.png" crc="3896145555" ref="index"/>
+    <file name="u1647-44.png" crc="4251778646" ref="index"/>
+    <file name="u1191-4-a4.png" crc="3901801258" ref="index"/>
+    <file name="u11284.png" crc="182887619" ref="index"/>
+    <file name="u1128-r4.png" crc="3987191379" ref="index"/>
+    <file name="u11494.png" crc="4007210662" ref="index"/>
+    <file name="u1149-r4.png" crc="3884241226" ref="index"/>
+    <file name="u11704.png" crc="4166010299" ref="index"/>
+    <file name="u1170-r4.png" crc="3896145555" ref="index"/>
+    <file name="u1647-45.png" crc="4251778646" ref="index"/>
+    <file name="u1191-4-a5.png" crc="3901801258" ref="index"/>
+    <file name="u11285.png" crc="182887619" ref="index"/>
+    <file name="u1128-r5.png" crc="3987191379" ref="index"/>
+    <file name="u11495.png" crc="4007210662" ref="index"/>
+    <file name="u1149-r5.png" crc="3884241226" ref="index"/>
+    <file name="u11705.png" crc="4166010299" ref="index"/>
+    <file name="u1170-r5.png" crc="3896145555" ref="index"/>
+  </folder>
+  <file name="index.html" crc="397820977" seo="true" mt="1524544898446" redirect="true"/>
+</manifest>
